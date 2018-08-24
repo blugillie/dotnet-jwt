@@ -1,0 +1,14 @@
+C:\Projects\dotnet-jwt\bin\Debug\netcoreapp2.1\dotnet-jwt.deps.json
+C:\Projects\dotnet-jwt\bin\Debug\netcoreapp2.1\dotnet-jwt.runtimeconfig.json
+C:\Projects\dotnet-jwt\bin\Debug\netcoreapp2.1\dotnet-jwt.runtimeconfig.dev.json
+C:\Projects\dotnet-jwt\bin\Debug\netcoreapp2.1\dotnet-jwt.dll
+C:\Projects\dotnet-jwt\bin\Debug\netcoreapp2.1\dotnet-jwt.pdb
+C:\Projects\dotnet-jwt\obj\Debug\netcoreapp2.1\dotnet-jwt.csprojAssemblyReference.cache
+C:\Projects\dotnet-jwt\obj\Debug\netcoreapp2.1\dotnet-jwt.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet-jwt\obj\Debug\netcoreapp2.1\dotnet-jwt.RazorAssemblyInfo.cache
+C:\Projects\dotnet-jwt\obj\Debug\netcoreapp2.1\dotnet-jwt.RazorAssemblyInfo.cs
+C:\Projects\dotnet-jwt\obj\Debug\netcoreapp2.1\dotnet-jwt.AssemblyInfoInputs.cache
+C:\Projects\dotnet-jwt\obj\Debug\netcoreapp2.1\dotnet-jwt.AssemblyInfo.cs
+C:\Projects\dotnet-jwt\obj\Debug\netcoreapp2.1\dotnet-jwt.RazorTargetAssemblyInfo.cache
+C:\Projects\dotnet-jwt\obj\Debug\netcoreapp2.1\dotnet-jwt.dll
+C:\Projects\dotnet-jwt\obj\Debug\netcoreapp2.1\dotnet-jwt.pdb
